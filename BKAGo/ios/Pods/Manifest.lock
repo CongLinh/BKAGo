@@ -87,7 +87,7 @@ PODS:
     - React/Core
     - React/fishhook
     - React/RCTBlob
-  - RNVectorIcons (6.1.0):
+  - RNVectorIcons (6.2.0):
     - React
   - yoga (0.58.3.React)
 
