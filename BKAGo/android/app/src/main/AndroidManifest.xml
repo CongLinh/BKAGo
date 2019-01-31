@@ -23,6 +23,20 @@
         </intent-filter>
       </activity>
       <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+
+      <!--CongLinh-->
+      <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyDUYbTR-3PDWPhgxjENs4yf35g2eHc641s"/>
+      <!--CongLinh-->
     </application>
+
+    <!--CongLinh-->
+    <!-- <application>
+      <meta-data
+      android:name="com.google.android.geo.API_KEY"
+      android:value="AIzaSyDUYbTR-3PDWPhgxjENs4yf35g2eHc641s"/>
+    </application> -->
+    <!--CongLinh-->
 
 </manifest>
