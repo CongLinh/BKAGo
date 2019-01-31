@@ -5,7 +5,7 @@ import HomeContainer from './Home/containers/HomeContainer';
 
 const scenes = Actions.create(
     <Scene key="root">
-        <Scene key="home" component={HomeContainer} title="BKAGo" initial />
+        <Scene key="home" component={HomeContainer} title="Home" initial />
     </Scene>
 );
 
